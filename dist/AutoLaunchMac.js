@@ -1,6 +1,6 @@
-var Promise, applescript, tellTo;
+var Promise, runApplescript, tellTo;
 
-applescript = require('run-applescript');
+runApplescript = require('run-applescript');
 
 Promise = require('es6-promise').Promise;
 

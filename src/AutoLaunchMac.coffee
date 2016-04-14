@@ -1,4 +1,4 @@
-applescript = require 'run-applescript'
+runApplescript = require 'run-applescript'
 Promise = require('es6-promise').Promise
 
 tellTo = 'tell application "System Events" to '
